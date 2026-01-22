@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SceneSnap - Simple Video Cutter",
+  "description": "Upload a short video to automatically detect scenes and extract start/end frames.",
+  "requestFramePermissions": []
+}
